@@ -55,6 +55,5 @@ def add_characters
 epic_tragedy[:additional_characters] << { name: "Prince Escalus"}
 epic_tragedy[:additional_characters] << { name: "apothecary" }
 
-
-end
 epic_tragedy
+end
